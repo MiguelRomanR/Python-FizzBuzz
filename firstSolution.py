@@ -11,3 +11,5 @@ for i in range(1, 101):
         print(i)
     else:
         print(findOut)
+
+# Realizando cambios para validar la consola
